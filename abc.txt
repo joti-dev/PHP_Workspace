@@ -1,2 +1,3 @@
 welcome to php calculator project
 This calcuulator use value more htan one
+it will get result of factorial
